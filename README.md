@@ -1,3 +1,3 @@
-# Códigos do Curso Python no Mercado Financeiro
+# Códigos do Curso Python para Mercado Financeiro
 
 Arquivos do curso.
