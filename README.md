@@ -1,3 +1,3 @@
-# WP TC Atividade Econômica
+# Códigos do Curso Python no Mercado Financeiro
 
-Estudo sobre aplicação do índice TC Atividade Econômica.
+Arquivos do curso.
